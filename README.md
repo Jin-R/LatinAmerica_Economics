@@ -10,4 +10,11 @@
     - Created a line graph using preprocessed economic data of Mexico and Korea.
     - Graph created using matplotlib.pyplot
 
+
 ***Argentina Nominal and Real GDP Time Series Analysis***
+
+1. 02_Economic_growth_calculate
+
+2. 02_Time_Series_Analysis_GDP_Nominal
+
+3. 02_Time_Series_Analysis_GDP_Real
