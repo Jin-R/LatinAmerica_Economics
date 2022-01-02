@@ -16,5 +16,7 @@
 1. 02_Economic_growth_calculate
 
 2. 02_Time_Series_Analysis_GDP_Nominal
+    - Argentina's nominal GDP data time series analysis using ARIMA
 
 3. 02_Time_Series_Analysis_GDP_Real
+    - Argnetina's real GDP data time series analysis using ARIMA
