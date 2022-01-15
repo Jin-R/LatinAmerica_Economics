@@ -14,6 +14,7 @@
 ***Argentina Nominal and Real GDP Time Series Analysis***
 
 1. 02_Economic_growth_calculate
+    - GDP growth rate of nominal GDP, real GDP, and GDP deflation
 
 2. 02_Time_Series_Analysis_GDP_Nominal
     - Argentina's nominal GDP data time series analysis using ARIMA
